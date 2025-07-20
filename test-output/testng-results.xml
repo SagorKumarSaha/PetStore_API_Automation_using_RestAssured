@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-20T21:54:20 BDT" name="Suite" finished-at="2025-07-20T21:54:33 BDT" duration-ms="12375">
+    <groups>
+    </groups>
+    <test started-at="2025-07-20T21:54:20 BDT" name="Test" finished-at="2025-07-20T21:54:33 BDT" duration-ms="12375">
+      <class name="api.tests.userTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.tests.userTest@5afa3c9]" started-at="2025-07-20T21:54:21 BDT" name="setup" finished-at="2025-07-20T21:54:22 BDT" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createUser()[pri:1, instance:api.tests.userTest@5afa3c9]" started-at="2025-07-20T21:54:22 BDT" name="createUser" finished-at="2025-07-20T21:54:28 BDT" duration-ms="5864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="getUser()[pri:2, instance:api.tests.userTest@5afa3c9]" started-at="2025-07-20T21:54:28 BDT" name="getUser" finished-at="2025-07-20T21:54:29 BDT" duration-ms="1635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method signature="UpdateUser()[pri:3, instance:api.tests.userTest@5afa3c9]" started-at="2025-07-20T21:54:29 BDT" name="UpdateUser" finished-at="2025-07-20T21:54:33 BDT" duration-ms="3433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUser -->
+      </class> <!-- api.tests.userTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
